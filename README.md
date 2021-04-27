@@ -1,5 +1,7 @@
 # Hi, I’m noriko. 👋
 
+I've been learning the Programing languages. I have been making tools for my jobs will be easier. | Python | JavaScript | PHP | Web API | Excel VBA
+
 - 👀 I’m interested in Programing. 
 - 🌱 I’m currently learning Python(Django), JavaScript, Java and English.
 - 💞️ I’m looking to collaborate on ... I don't know yet.
