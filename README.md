@@ -23,6 +23,7 @@ I've been learning the Programing languages. I have been making tools for my job
 
 ## My Site
 [https://norik00.github.io/noriko/](https://norik00.github.io/noriko/)
+**Still not Responsive**
 
 
 <!---
