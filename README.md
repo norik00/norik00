@@ -16,8 +16,13 @@ I've been learning the Programing languages. I have been making tools for my job
 - JavaScript
   - Node.js
   - Vue.js
+  - React.js
 - PHP
   - WordPress
+
+
+## My Site
+[https://norik00.github.io/noriko/](https://norik00.github.io/noriko/)
 
 
 <!---
