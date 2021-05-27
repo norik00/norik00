@@ -14,9 +14,8 @@ I've been learning the Programing languages. I have been making tools for my job
   - Django
   - DRF
 - JavaScript
-  - Node.js
   - Vue.js
-  - React.js
+  - React
 - PHP
   - WordPress
 
