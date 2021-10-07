@@ -15,18 +15,14 @@ I've been learning the Programing languages. I have been making tools for my job
 - 💞️ I’m looking to collaborate on ... I don't know yet.
 - 📫 How to reach me ... Twitter [@noriko49893625](https://twitter.com/noriko49893625)
 
-## My slills
-- HTML5
-- CSS3
-- Python3
-  - Django
-  - Django Rest framework
-- JavaScript
-  - Vue.js
-  - React
-- PHP
-  - WordPress
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norik00&layout=compact)](https://github.com/norik00/github-readme-stats)
 
+## Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=norik00&repo=code-convert-to-image)](https://github.com/norik00/code-convert-to-image)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=norik00&repo=sns-django-react-sample)](https://github.com/norik00/sns-django-react-sample)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=norik00&repo=auctionsite-django-sample)](https://github.com/norik00/auctionsite-django-sample)
 
 ## edx
   - [CS50’s Web Programming with Python and JavaScript　(Incomplete)](https://cs50.harvard.edu/web/2020/)
