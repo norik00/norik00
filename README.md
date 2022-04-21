@@ -26,13 +26,6 @@ I've been learning the Programing languages. I have been making tools for my job
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=norik00&repo=auctionsite-django-sample)](https://github.com/norik00/auctionsite-django-sample)
 
-## edx
-  - [CS50’s Web Programming with Python and JavaScript　(Incomplete)](https://cs50.harvard.edu/web/2020/)
-
-
-## My Site
-[https://norik00.github.io/noriko/](https://norik00.github.io/noriko/)
-
 
 <!---
 norik00/norik00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
