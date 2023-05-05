@@ -1,6 +1,6 @@
 # Hi, I’m noriko. 👋
 
-I've been learning the Programing languages. I have been making tools for my jobs will be easier.  
+I've been building my web site now. [Click me!](https://norik00.github.io/portfolio)
 
 - 👀 I’m interested in React and Laravel sometimes Python.
 - 🌱 I’m currently learning English.
